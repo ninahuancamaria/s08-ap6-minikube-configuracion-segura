@@ -1,0 +1,1 @@
+# s08-ap6-minikube-configuracion-segura
