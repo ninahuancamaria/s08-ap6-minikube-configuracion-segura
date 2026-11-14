@@ -1,0 +1,13 @@
+{
+  "name": "practica-s08-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend de demostración para ConfigMap, Secret, MongoDB y NodePort en Minikube",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.8.0"
+  }
+}
